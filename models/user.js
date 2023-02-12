@@ -1,3 +1,4 @@
+// Projects: API REST - mongodb - react
 const mongoose = require('mongoose');
 
 const userSchema = mongoose.Schema({
